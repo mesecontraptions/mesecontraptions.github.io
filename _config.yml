@@ -1,3 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: Mesecons and Contraptions
-description:
+show_downloads: false
+site.logo: false
